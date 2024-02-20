@@ -5,7 +5,7 @@ import { IconCircle } from "@tabler/icons-react"
 
 const PrimaryCard = ({title, qty, subtitle, image}) => {
     return(
-        <Box sx={{backgroundColor:"gray", display:"flex", width:"30%", padding:"10px", justifyContent:"space-between"}}>
+        <Box sx={{backgroundColor:"#f5f5f5", display:"flex", width:"30%", padding:"10px", justifyContent:"space-between"}}>
             <Box sx={{display:"flex", gap:1}}>
                 <Box>
                     <IconCircle />
