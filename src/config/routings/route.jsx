@@ -1,8 +1,8 @@
 import { useRoutes } from "react-router-dom"
-import LoginPage from "../../components/pages/LoginPage"
-import RegistrationPage from "../../components/pages/RegistrationPage"
-import BooksPage from "../../components/pages/BooksPage"
-import BucketPage from "../../components/pages/BucketPage"
+import LoginPage from "../../components/pages/anonymous/LoginPage"
+import BooksPage from "../../components/pages/user/BooksPage"
+import BucketPage from "../../components/pages/user/BucketPage"
+import RegistrationPage from "../../components/pages/anonymous/RegistrationPage"
 
 
 const UseRouter = () => {

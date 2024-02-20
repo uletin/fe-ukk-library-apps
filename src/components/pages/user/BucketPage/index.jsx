@@ -1,5 +1,5 @@
 import { Box, Typography } from "@mui/material"
-import SecondaryCard from "../../atom/SecondaryCard"
+import SecondaryCard from "../../../atom/SecondaryCard"
 
 
 
